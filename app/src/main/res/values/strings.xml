@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="bim_result">0.0</string>
+    <string name="action_set"></string>
+</resources>
